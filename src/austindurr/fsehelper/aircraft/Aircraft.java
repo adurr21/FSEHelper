@@ -1,4 +1,4 @@
-package fseconomytool.aircraft;
+package austindurr.fsehelper.aircraft;
 
 public interface Aircraft {
 

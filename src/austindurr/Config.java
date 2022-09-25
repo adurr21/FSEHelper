@@ -1,4 +1,4 @@
-package fseconomytool;
+package austindurr.fsehelper;
 
 import java.io.File;
 import java.io.IOException;

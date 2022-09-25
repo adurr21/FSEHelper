@@ -1,4 +1,4 @@
-package fseconomytool;
+package austindurr.fsehelper;
 
 public class Main {
     //Global Variables

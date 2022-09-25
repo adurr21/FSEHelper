@@ -1,6 +1,4 @@
-package fseconomytool.aircraft;
-
-import fseconomytool.aircraft.Aircraft;
+package austindurr.fsehelper.aircraft;
 
 public class CessnaCitationX implements Aircraft {
     public String flightModel = "Cessna%20Citation%20X";

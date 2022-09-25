@@ -1,8 +1,8 @@
-package fseconomytool;
+package austindurr.fsehelper;
 
-import fseconomytool.aircraft.Aircraft;
-import fseconomytool.aircraft.CessnaCaravan;
-import fseconomytool.aircraft.CessnaCitationX;
+import austindurr.fsehelper.aircraft.Aircraft;
+import austindurr.fsehelper.aircraft.CessnaCaravan;
+import austindurr.fsehelper.aircraft.CessnaCitationX;
 
 import java.util.Scanner;
 
