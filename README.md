@@ -1,3 +1,7 @@
+```
+The external API utilized by FSEHelper has been updated and no longer works. This tool is deprecated and has been archived.
+```
+
 # FSEHelper
 A tool to mimic flights and push data to the FSEconomy (https://www.fseconomy.net) game server.  
 
